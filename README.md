@@ -5,6 +5,10 @@ It's a small tool for Need For Speed World GlobalC.lzc management. It was writte
 
 This tool is able to open GlobalC.lzc file and unpack/compress JDLZ-archives inside. For example, you can use `tools/unpack all` menu item and then save file to get a GlobalC with all JDLZ archives unpacked. Game should work correctly with unpacked files.
 
+## Download link
+
+The latest release can be found on releases page: https://github.com/funk-yourself/globalc-tool/releases/download/v0.1.0/globalc-tool.zip
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/funk-yourself/globalc-tool. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
